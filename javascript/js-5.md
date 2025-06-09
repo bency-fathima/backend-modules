@@ -12,7 +12,6 @@ Arithmetic operators perform mathematical calculations like addition, subtractio
 | `-`      | Subtraction       | `5 - 3`       | `2`    |
 | `*`      | Multiplication    | `5 * 3`       | `15`   |
 | `/`      | Division          | `5 / 2`       | `2.5`  |
-| `//`     | Floor Division    | `5 // 2`      | `2`    |
 | `%`      | Modulus (Remainder) | `5 % 2`    | `1`    |
 | `**`     | Exponentiation    | `5 ** 2`      | `25`   |
 
